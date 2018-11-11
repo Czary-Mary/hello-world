@@ -1,2 +1,4 @@
 # hello-world
-repository
+
+Jakis krotki tekst!
+I kolejna linia tekstu!
